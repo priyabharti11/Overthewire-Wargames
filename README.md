@@ -283,12 +283,12 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
        2) ls -l 
           - Displays a list of files and directories in long format and shows their sizes in bytes.
  <br>
+    <details> 
+   <summary>Click for picture example</summary>
    <div>
-   <h3> Click for picture example</h3>
-   <details>
-   <img width="100%" src ="https://user-images.githubusercontent.com/91482888/190853568-d1088ff7-2f31-4f51-a06e-c704a104a714.png"/>
-   </details>
+   <img width="100%" height ="400" src ="https://user-images.githubusercontent.com/91482888/190853568-d1088ff7-2f31-4f51-a06e-c704a104a714.png"/>
    </div>
+    </details>
    
    <h3> </h3>
     
@@ -296,12 +296,15 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
           - scales file sizes and directory sizes into KB, MB, GB, or TB when the file or directory size is larger than 1024 bytes.
  <br>
  
+   <details> 
+   <summary>Click for picture example</summary>
    <div>
-    <h3> Click for picture example</h3>
-   <details>
-   <img width="100%" height ="50%" src ="https://user-images.githubusercontent.com/91482888/190853574-2197c64b-8d09-4e19-ab49-43e1634f6010.png"/>
-   </details>
+   <img width="100%" height ="400" src ="https://user-images.githubusercontent.com/91482888/190853574-2197c64b-8d09-4e19-ab49-43e1634f6010.png"/>
+  
    </div>
+    </details>
+   
+   <br>
    
    <h3> </h3>
     
