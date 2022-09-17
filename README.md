@@ -284,7 +284,10 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
           - Displays a list of files and directories in long format and shows their sizes in bytes.
  <br>
    <div>
+   <h3> Click for picture example</h3>
+   <details>
    <img width="100%" src ="https://user-images.githubusercontent.com/91482888/190853568-d1088ff7-2f31-4f51-a06e-c704a104a714.png"/>
+   </details>
    </div>
    
    <h3> </h3>
@@ -294,7 +297,10 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
  <br>
  
    <div>
-   <img width="100%" src ="https://user-images.githubusercontent.com/91482888/190853574-2197c64b-8d09-4e19-ab49-43e1634f6010.png"/>
+    <h3> Click for picture example</h3>
+   <details>
+   <img width="100%" height ="50%" src ="https://user-images.githubusercontent.com/91482888/190853574-2197c64b-8d09-4e19-ab49-43e1634f6010.png"/>
+   </details>
    </div>
    
    <h3> </h3>
