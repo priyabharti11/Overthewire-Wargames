@@ -320,14 +320,10 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
           - 'nn' is a number that represents a size in 512-byte blocks which you specify for the '–size' option.
           - The '–print' option displays the output of the find command.
  <br>
+  
    <h3> </h3>
     
-       7) ls -s 
-          - to view the hidden files , it indicates the ls to show 'all' files in the current directory.
- <br>
-   <h3> </h3>
-    
-       8) find -type f -size 1033c 
+       7) find -type f -size 1033c 
    
           - Here type f indicates its a file.
           - b – 512-byte blocks (this is the default if no suffix is used)
@@ -340,7 +336,7 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
    
    <h3> </h3>
     
-       9) which  
+       8) which  
           - An executable file (EXE file) is a computer file that contains an encoded sequence of instructions that the 
             system can execute directly when the user clicks the file icon. Executable files commonly have an EXE file extension,
             but there are hundreds of other executable file formats.
