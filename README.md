@@ -59,6 +59,13 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
     
    </h3>
    <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
    
 <h1>Level 1</h1>
 <p> 
@@ -112,6 +119,14 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
       ( I used '-p' to specify the port 2220 becasue i got an error that my system was using port 22 )
       ( use password which u copied from readme file )
  <br>
+  <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
  
 
  
@@ -123,30 +138,29 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
    The password for the next level is stored in a file called - located in the home directory.
 </h4>
 
-<h3>Use "cat ./-" to see what is in the "-" file.
+<h3>Use "cat ./-" or "cat < -" to see what is in the "-" file.
 </p>
 
  <h2> Solution</h2>
    
    <h3> Step 1:</h3>
    <h4> 
-      Read and copy the password from the '-' file in home directory of bandit0 user.
+      Read and copy the password from the '-' file in home directory of bandit1 user.
    </h4>
    
 <h3>
     Command :
 </h3>
     
-       cat readme
-       
-      ( Used cat because 'readme' is not a directory its a file so we need to read it , we cant used cd command )
+       cat ./-
+   
       ( A password will appear, copy it using 'Ctrl+Shift+C' command )
  <br>
  
  
 <h3> Step 2:</h3>
 
-  Now just type exit to exit the current 'bandit0' user.
+  Now just type exit to exit the current 'bandit1' user.
  
  
  <h3>
@@ -159,16 +173,25 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
 
 <h3> Step 3:</h3>
 <h4> 
-     Now you need to again use ssh to access the 'bandit1' user.
+     Now you need to again use ssh to access the 'bandit2' user.
  </h4>
 <h3>
     Command :
 </h3>
     
-       ssh bandit1@bandit.labs.overthewire.org -p 2220
+       ssh bandit2@bandit.labs.overthewire.org -p 2220
        
       ( I used '-p' to specify the port 2220 becasue i got an error that my system was using port 22 )
-      ( use password which u copied from readme file )
+      ( use password which u copied from '-' dashed file )
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
  <br>
  
  
