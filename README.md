@@ -270,10 +270,33 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
        1) ls -a 
           - to view the hidden files , it indicates the ls to show 'all' files in the current directory.
  <br>
-   <h3></h3>
-       1) ls -a 
+   
+   <h3> </h3>
+    
+       2) cat "Password file" 
+          - How to read a file which has name with spaces.
+ <br>
+   
+   <h3> </h3>
+    
+       2) ls -l 
+          - Displays a list of files and directories in long format and shows their sizes in bytes.
+ <br>
+   <img width="100%" src =""/>
+   
+   <h3> </h3>
+    
+       3) ls -h 
+          - scales file sizes and directory sizes into KB, MB, GB, or TB when the file or directory size is larger than 1024 bytes.
+ <br>
+   <img width="100%" src =""/>
+   
+   <h3> </h3>
+    
+       4) ls -a 
           - to view the hidden files , it indicates the ls to show 'all' files in the current directory.
  <br>
+   
    
    
    
