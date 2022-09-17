@@ -31,7 +31,7 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
    <h3>
     Command :
     <h4> 
-      sudo apt install openssh-client & sudo apt install openssh-server
+        sudo apt install openssh-client & sudo apt install openssh-server
     </h4>
    </h3>
    <br>
@@ -42,11 +42,10 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
    </h4>
    
    <h3>
-    Command :
-    <h4> 
-      sudo systemctl enable ssh
-    </h4>
-   </h3>
+    Command :</h3>
+           sudo systemctl enable ssh
+    
+   
    <br>
    
    <h3> Step 3:</h3>
@@ -54,13 +53,40 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
    Now Connect to the Overwire Lab using ssh using the hostname and password given.
    </h4>
    
-    <h3>
-    Command :
-    <h4> 
-      ssh bandit0@bandit.labs.overthewire.org -p 2220<br> (I used '-p' to specify the port 2220 becasue i got an error that my system was using port 22 )
-    </h4>
+   <h3>
+    Command :</h3>
+    
+       ssh bandit0@bandit.labs.overthewire.org -p 2220
+      (I used '-p' to specify the port 2220 becasue i got an error that my system was using port 22 )
+    
    </h3>
    <br>
+   
+<h1>Level 1</h1>
+<p> 
+<h2> Level Goal</h2> 
+<h4> 
+   The password for the next level is stored in a file called readme located in the home directory. Use this password to log into bandit1 using SSH.  Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game.
+</h4>
+</p>
+
+ <h2> Solution</h2>
+   
+   <h3> Step 1:</h3>
+   <h4> 
+      Connect to bandit1 user in overthewire lab using ssh.
+   </h4>
+
+<h3>
+    Command :</h3>
+    
+       ssh bandit1@bandit.labs.overthewire.org -p 2220
+      (I used '-p' to specify the port 2220 becasue i got an error that my system was using port 22 )
+    
+
+   <br>
+
+
    
    
    
