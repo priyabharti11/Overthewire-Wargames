@@ -1,6 +1,6 @@
 # Overthewire-Wargames
 
-Overthewire is platform for prcaticing Security Concepts in the form of fun filled games.
+Overthewire Wargames is a platform for prcaticing Security Concepts in the form of fun filled games.
 
 <h3>Level 0</h3>
 <p> <h4> Level Goal</h4>
@@ -9,3 +9,5 @@ Overthewire is platform for prcaticing Security Concepts in the form of fun fill
         in, go to the Level 1 page to find out how to beat Level 1. </h5>
   <h4>Commands you may need to solve this level</h4> 
    <h5> ssh </h4> 
+   <h4> Solution</h4>
+   <h5> Step 1: Install Openssh client and server in your linux syste,m through terminal<br>Command : sudo apt install openssh-client <br>and<br> sudo apt install openssh-server
