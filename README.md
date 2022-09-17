@@ -247,7 +247,7 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
     Command :
 </h3>
     
-       ssh bandit2@bandit.labs.overthewire.org -p 2220
+       ssh bandit3@bandit.labs.overthewire.org -p 2220
        
       ( I used '-p' to specify the port 2220 becasue i got an error that my system was using port 22 )
       ( use password which u copied from 'spaces in the filename' file )
