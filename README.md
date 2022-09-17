@@ -341,7 +341,7 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
             k – Kilobytes
             M – Megabytes
             G – Gigabytes
-    <br>
+ <br>
    
    <h3> </h3>
     
@@ -351,7 +351,7 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
             but there are hundreds of other executable file formats.
  <br>
   
-    <h3> </h3>
+ <h3> </h3>
     
        9) find / -user bandit7 -group -bandit6 -size 33c 
        
