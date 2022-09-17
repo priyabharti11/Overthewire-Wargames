@@ -351,7 +351,20 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
             but there are hundreds of other executable file formats.
  <br>
   
-   
+    <h3> </h3>
+    
+       9) find / -user bandit7 -group -bandit6 -size 33c 
+       
+          - To find a file with given user , group and size.
+          - It will open up all the files with permission and permission denied both
+ <br>
+ 
+ <h3> </h3>
+    
+       10) find / -user bandit7 -group -bandit6 -size 33c 
+       
+          - To find a file with given user , group and sizxe
+ <br>
    
    
    
