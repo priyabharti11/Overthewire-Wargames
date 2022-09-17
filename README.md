@@ -361,9 +361,10 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
  
  <h3> </h3>
     
-       10) find / -user bandit7 -group -bandit6 -size 33c 
+       10) strings filename | grep millionth  
        
-          - To find a file with given user , group and sizxe
+          - To find o/p after a particular word in the file as file has long data
+          - Here password is found from data.txt file , password is just after the word 'millionth'.
  <br>
    
    
