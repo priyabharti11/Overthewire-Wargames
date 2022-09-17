@@ -25,15 +25,13 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
    
    <h3> Step 1:</h3>
    <h4> 
-      Install Openssh client and server programs in your linux syste,m through terminal
+      Install Openssh client and server programs in your linux system through terminal
    </h4>
    
    <h3>
-    Command :
-    <h4> 
-        sudo apt install openssh-client & sudo apt install openssh-server
-    </h4>
-   </h3>
+    Command :</h3>
+    
+       sudo apt install openssh-client & sudo apt install openssh-server
    <br>
    
    <h3> Step 2:</h3>
@@ -43,9 +41,8 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
    
    <h3>
     Command :</h3>
-           sudo systemctl enable ssh
     
-   
+      sudo systemctl enable ssh
    <br>
    
    <h3> Step 3:</h3>
@@ -74,17 +71,28 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
    
    <h3> Step 1:</h3>
    <h4> 
-      Connect to bandit1 user in overthewire lab using ssh.
+      Read and copy the password from the 'readme' file in home directory of bandit0 user.
    </h4>
+   
+<h3>
+    Command :
+</h3>
+    
+       cat readme
+       
+      ( Used cat because 'readme' is not a directory its a file so we need to read it , we cant used cd command )
+      ( A password will appear, copy it using 'Ctrl+Shift+C' command )
+ <br>
 
 <h3>
-    Command :</h3>
+    Command :
+</h3>
     
        ssh bandit1@bandit.labs.overthewire.org -p 2220
       (I used '-p' to specify the port 2220 becasue i got an error that my system was using port 22 )
-    
-
-   <br>
+ <br>
+ 
+ 
 
 
    
