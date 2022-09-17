@@ -31,7 +31,8 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
    <h3>
     Command :</h3>
     
-       sudo apt install openssh-client & sudo apt install openssh-server
+       sudo apt install openssh-client
+       sudo apt install openssh-server
    <br>
    
    <h3> Step 2:</h3>
