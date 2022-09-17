@@ -282,15 +282,63 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
        2) ls -l 
           - Displays a list of files and directories in long format and shows their sizes in bytes.
  <br>
-   <img width="100%" src =""/>
+   <div>
+   <img width="100%" src ="https://user-images.githubusercontent.com/91482888/190853568-d1088ff7-2f31-4f51-a06e-c704a104a714.png"/>
+   </div>
    
    <h3> </h3>
     
        3) ls -h 
           - scales file sizes and directory sizes into KB, MB, GB, or TB when the file or directory size is larger than 1024 bytes.
  <br>
-   <img width="100%" src =""/>
+ 
+   <div>
+   <img width="100%" src ="https://user-images.githubusercontent.com/91482888/190853574-2197c64b-8d09-4e19-ab49-43e1634f6010.png"/>
+   </div>
    
+   <h3> </h3>
+    
+       4) ls -a 
+          - to view the hidden files , it indicates the ls to show 'all' files in the current directory.
+ <br>
+   
+   <h3> </h3>
+    
+       5) cat ./-filename 
+       
+          - dash "-" is a specialm character
+          - If we want to read any file whose name is starting from a dash '-' then this command is used.
+ <br>
+   <h3> </h3>
+    
+       6) find directory -size nn  ( 'find . -size +400 -print' or 'find var -size +500 -print' )
+       
+          - The find command enables you to search for files that fit a specific search criteria. For example, to find files that exceed a specific file 
+            size, you use the following command syntax.
+          - where 'directory'  specifies the directory that you want to search.
+          - 'nn' is a number that represents a size in 512-byte blocks which you specify for the '–size' option.
+          - The '–print' option displays the output of the find command.
+ <br>
+   <h3> </h3>
+    
+       5) ls -s 
+          - to view the hidden files , it indicates the ls to show 'all' files in the current directory.
+ <br>
+   <h3> </h3>
+    
+       4) ls -a 
+          - to view the hidden files , it indicates the ls to show 'all' files in the current directory.
+ <br>
+   <h3> </h3>
+    
+       4) ls -a 
+          - to view the hidden files , it indicates the ls to show 'all' files in the current directory.
+ <br>
+   <h3> </h3>
+    
+       4) ls -a 
+          - to view the hidden files , it indicates the ls to show 'all' files in the current directory.
+ <br>
    <h3> </h3>
     
        4) ls -a 
