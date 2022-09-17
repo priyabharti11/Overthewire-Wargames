@@ -139,7 +139,7 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
    The password for the next level is stored in a file called - located in the home directory.
 </h4>
 
-<h3>Use "cat ./-" or "cat < -" to see what is in the "-" file.
+<h3>NOTE : Use "cat ./-" or "cat < -" to see what is in the "-" file.</h3>
 </p>
 
  <h2> Solution</h2>
@@ -197,6 +197,70 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
  
  
  
+ 
+ 
+ <h1>Level 3</h1>
+<p> 
+<h2> Level Goal</h2> 
+<h4> 
+   
+</h4>
+
+<h3>NOTE : Use cat "file name with multiple words" to see what is in the file. Enclose the file name under double quotes which have a long name with spaces.</h3>
+</p>
+
+ <h2> Solution</h2>
+   
+   <h3> Step 1:</h3>
+   <h4> 
+      Read and copy the password from the 'spaces in the filename' file in home directory of bandit2 user.
+   </h4>
+   
+<h3>
+    Command :
+</h3>
+    
+       cat "spaces in the filename"
+   
+      ( A password will appear, copy it using 'Ctrl+Shift+C' command )
+ <br>
+ 
+ 
+<h3> Step 2:</h3>
+
+  Now just type exit to exit the current 'bandit1' user.
+ 
+ 
+ <h3>
+    Command :
+</h3>
+    
+       exit
+<br>
+       
+
+<h3> Step 3:</h3>
+<h4> 
+     Now you need to again use ssh to access the 'bandit3' user.
+ </h4>
+<h3>
+    Command :
+</h3>
+    
+       ssh bandit2@bandit.labs.overthewire.org -p 2220
+       
+      ( I used '-p' to specify the port 2220 becasue i got an error that my system was using port 22 )
+      ( use password which u copied from 'spaces in the filename' file )
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
  
 
 
