@@ -340,7 +340,7 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
    <h3> </h3>
     
        4) which  
-          - to view the hidden files , it indicates the ls to show 'all' files in the current directory.
+          - An executable file (EXE file) is a computer file that contains an encoded sequence of instructions that the system can execute directly when the user clicks the file icon. Executable files commonly have an EXE file extension, but there are hundreds of other executable file formats.
  <br>
    <h3> </h3>
     
