@@ -47,5 +47,21 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
       sudo systemctl enable ssh
     </h4>
    </h3>
+   <br>
+   
+   <h3> Step 3:</h3>
+   <h4>
+   Now Connect to the Overwire Lab using ssh using the hostname and password given.
+   </h4>
+   
+    <h3>
+    Command :
+    <h4> 
+      ssh bandit0@bandit.labs.overthewire.org -p 2220<br> (I used '-p' to specify the port 2220 becasue i got an error that my system was using port 22 )
+    </h4>
+   </h3>
+   <br>
+   
+   
    
    
