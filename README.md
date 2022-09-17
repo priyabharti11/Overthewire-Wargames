@@ -326,12 +326,20 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
  <br>
    <h3> </h3>
     
-       4) ls -a 
-          - to view the hidden files , it indicates the ls to show 'all' files in the current directory.
- <br>
+       4) find -type f -size 1033c 
+   
+          - Here type f indicates its a file.
+          - b – 512-byte blocks (this is the default if no suffix is used)
+            c – bytes
+            w – two-byte words
+            k – Kilobytes
+            M – Megabytes
+            G – Gigabytes
+    <br>
+   
    <h3> </h3>
     
-       4) ls -a 
+       4) which  
           - to view the hidden files , it indicates the ls to show 'all' files in the current directory.
  <br>
    <h3> </h3>
