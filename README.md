@@ -365,6 +365,7 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
        
           - To find o/p after a particular word in the file as file has long data
           - Here password is found from data.txt file , password is just after the word 'millionth'.
+          - notes link : https://www.javatpoint.com/what-is-linux
  <br>
    
    
