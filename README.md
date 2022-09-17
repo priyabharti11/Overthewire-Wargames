@@ -24,9 +24,9 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
    <h2> Solution</h2>
    
    <h3> Step 1:</h3>
-   <h4> 
-      Install Openssh client and server programs in your linux system through terminal
-   </h4>
+   
+   Install Openssh client and server programs in your linux system through terminal
+   
    
    <h3>
     Command :</h3>
@@ -35,9 +35,9 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
    <br>
    
    <h3> Step 2:</h3>
-   <h4>
+  
    Enable the and start the ssh service in your system.
-   </h4>
+   
    
    <h3>
     Command :</h3>
@@ -46,9 +46,9 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
    <br>
    
    <h3> Step 3:</h3>
-   <h4>
+   
    Now Connect to the Overwire Lab using ssh using the hostname and password given.
-   </h4>
+   
    
    <h3>
     Command :</h3>
@@ -71,9 +71,9 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
  <h2> Solution</h2>
    
    <h3> Step 1:</h3>
-   <h4> 
-      Read and copy the password from the 'readme' file in home directory of bandit0 user.
-   </h4>
+   
+   Read and copy the password from the 'readme' file in home directory of bandit0 user.
+   
    
 <h3>
     Command :
@@ -87,9 +87,9 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
  
  
 <h3> Step 2:</h3>
-<h4> 
-     Now just type exit to exit the current 'bandit0' user.
- </h4>
+ 
+  Now just type exit to exit the current 'bandit0' user.
+ 
  
  <h3>
     Command :
@@ -100,9 +100,9 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
        
 
 <h3> Step 3:</h3>
-<h4> 
-     Now you need to again use ssh to access the 'bandit1' user.
- </h4>
+
+   Now you need to again use ssh to access the 'bandit1' user.
+ 
 <h3>
     Command :
 </h3>
@@ -145,9 +145,9 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
  
  
 <h3> Step 2:</h3>
-<h4> 
-     Now just type exit to exit the current 'bandit0' user.
- </h4>
+
+  Now just type exit to exit the current 'bandit0' user.
+ 
  
  <h3>
     Command :
