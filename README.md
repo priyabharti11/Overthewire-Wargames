@@ -264,6 +264,15 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
  
 
 
+
+<h3> Commands Learned :</h3>
+    
+       1) ls -a 
+          - to view the hidden files , it indicates the ls to show 'all' files in the current directory.
+ <br>
+       1) ls -a 
+          - to view the hidden files , it indicates the ls to show 'all' files in the current directory.
+ <br>
    
    
    
