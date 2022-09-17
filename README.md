@@ -286,7 +286,7 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
     <details> 
    <summary>Click for picture example</summary>
    <div>
-   <img width="100%" height ="400" src ="https://user-images.githubusercontent.com/91482888/190853568-d1088ff7-2f31-4f51-a06e-c704a104a714.png"/>
+   <img width="100%" height ="330" src ="https://user-images.githubusercontent.com/91482888/190853568-d1088ff7-2f31-4f51-a06e-c704a104a714.png"/>
    </div>
     </details>
    
@@ -299,7 +299,7 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
    <details> 
    <summary>Click for picture example</summary>
    <div>
-   <img width="100%" height ="400" src ="https://user-images.githubusercontent.com/91482888/190853574-2197c64b-8d09-4e19-ab49-43e1634f6010.png"/>
+   <img width="100%" height ="450" src ="https://user-images.githubusercontent.com/91482888/190853574-2197c64b-8d09-4e19-ab49-43e1634f6010.png"/>
   
    </div>
     </details>
