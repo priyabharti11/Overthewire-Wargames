@@ -54,6 +54,7 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
     Command :</h3>
     
        ssh bandit0@bandit.labs.overthewire.org -p 2220
+       
       (I used '-p' to specify the port 2220 becasue i got an error that my system was using port 22 )
     
    </h3>
@@ -83,14 +84,94 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
       ( Used cat because 'readme' is not a directory its a file so we need to read it , we cant used cd command )
       ( A password will appear, copy it using 'Ctrl+Shift+C' command )
  <br>
+ 
+ 
+<h3> Step 2:</h3>
+<h4> 
+     Now just type exit to exit the current 'bandit0' user.
+ </h4>
+ 
+ <h3>
+    Command :
+</h3>
+    
+       exit
+<br>
+       
 
+<h3> Step 3:</h3>
+<h4> 
+     Now you need to again use ssh to access the 'bandit1' user.
+ </h4>
 <h3>
     Command :
 </h3>
     
        ssh bandit1@bandit.labs.overthewire.org -p 2220
-      (I used '-p' to specify the port 2220 becasue i got an error that my system was using port 22 )
+       
+      ( I used '-p' to specify the port 2220 becasue i got an error that my system was using port 22 )
+      ( use password which u copied from readme file )
  <br>
+ 
+
+ 
+ 
+ <h1>Level 2</h1>
+<p> 
+<h2> Level Goal</h2> 
+<h4> 
+   The password for the next level is stored in a file called - located in the home directory.
+</h4>
+
+<h3>Use "cat ./-" to see what is in the "-" file.
+</p>
+
+ <h2> Solution</h2>
+   
+   <h3> Step 1:</h3>
+   <h4> 
+      Read and copy the password from the '-' file in home directory of bandit0 user.
+   </h4>
+   
+<h3>
+    Command :
+</h3>
+    
+       cat readme
+       
+      ( Used cat because 'readme' is not a directory its a file so we need to read it , we cant used cd command )
+      ( A password will appear, copy it using 'Ctrl+Shift+C' command )
+ <br>
+ 
+ 
+<h3> Step 2:</h3>
+<h4> 
+     Now just type exit to exit the current 'bandit0' user.
+ </h4>
+ 
+ <h3>
+    Command :
+</h3>
+    
+       exit
+<br>
+       
+
+<h3> Step 3:</h3>
+<h4> 
+     Now you need to again use ssh to access the 'bandit1' user.
+ </h4>
+<h3>
+    Command :
+</h3>
+    
+       ssh bandit1@bandit.labs.overthewire.org -p 2220
+       
+      ( I used '-p' to specify the port 2220 becasue i got an error that my system was using port 22 )
+      ( use password which u copied from readme file )
+ <br>
+ 
+ 
  
  
 
