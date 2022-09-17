@@ -255,6 +255,7 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
  <br>
  <br>
  <br>
+   <h2> All Other Levels have the same ssh connection work<br> Commands helpful in completing them are listed at the end of the writeup</h2>
  <br>
  <br>
  <br>
@@ -340,18 +341,11 @@ Overthewire Wargames is a platform for prcaticing Security Concepts in the form 
    <h3> </h3>
     
        4) which  
-          - An executable file (EXE file) is a computer file that contains an encoded sequence of instructions that the system can execute directly when the user clicks the file icon. Executable files commonly have an EXE file extension, but there are hundreds of other executable file formats.
+          - An executable file (EXE file) is a computer file that contains an encoded sequence of instructions that the 
+            system can execute directly when the user clicks the file icon. Executable files commonly have an EXE file extension,
+            but there are hundreds of other executable file formats.
  <br>
-   <h3> </h3>
-    
-       4) ls -a 
-          - to view the hidden files , it indicates the ls to show 'all' files in the current directory.
- <br>
-   <h3> </h3>
-    
-       4) ls -a 
-          - to view the hidden files , it indicates the ls to show 'all' files in the current directory.
- <br>
+  
    
    
    
