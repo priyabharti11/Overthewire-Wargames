@@ -1,6 +1,6 @@
 # Overthewire-Wargames
 
-Overthewire Wargames is a platform for prcaticing Security Concepts in the form of fun filled games.
+Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of fun filled games.
 
 <h1>Level 0</h1>
 <p> 
