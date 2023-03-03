@@ -363,7 +363,7 @@ Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of 
     
        10) strings filename | grep millionth  
        
-          - To find o/p after a particular word in the file as file has long data
+          - To find original password after a particular word in the file as file has long data
           - Here password is found from data.txt file , password is just after the word 'millionth'.
           - notes link : https://www.javatpoint.com/what-is-linux
  <br>
