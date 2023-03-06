@@ -368,6 +368,17 @@ Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of 
           - notes link : https://www.javatpoint.com/what-is-linux
  <br>
    
+  <h3> </h3>
+    
+       10) du   
+       
+          - Link - https://www.redhat.com/sysadmin/du-command-options 
+          - Link - https://man7.org/linux/man-pages/man1/du.1.html
+          - It is used to estimate the disk size a particular directory or file is using.
+          - The last time it was modified (du --time)(can also specify the directory path in btwn. du and --time) etc.
+          - The unit of size and other formats can be displayed using the respective flags it supports.
+ <br>
+   
    
    
    
