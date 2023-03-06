@@ -357,6 +357,29 @@ Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of 
        
           - To find a file with given user , group and size.
           - It will open up all the files with permission and permission denied both
+          - So we need to append "2>/dev/null" at the end of the above command.
+ <br>
+ <h3> </h3>
+    
+       9)  2>/dev/null
+       
+          - Link- https://askubuntu.com/questions/350208/what-does-2-dev-null-mean
+          - /dev/null is treated as black hole in Linux/Unix, so you can put anything into this but you will not be able to get it back from /dev/null.
+          - /dev/null is the standard Linux device where you send output that you want ignored.
+          - Further, 2> means that you are redirecting (i.e. >) the stderr (i.e. 2) into the black hole (i.e. /dev/null).
+          - Command before 2>/dev/null ill generate the output with errors and permission denied etc.
+          - Specifying 2>/dev/null will filter out the errors so that they will not be output to your console.
+   
+          - ">" Operator & 1,2,3:
+                 *  > operator. It redirect the output of left of symbol to right of symbol.
+                 * So it must thought as : source_command > target_file
+                 * 0 means stdin 
+                   1 means stdout(useful output)
+                   2 means stderr(error message output)
+
+
+
+
  <br>
  
  <h3> </h3>
