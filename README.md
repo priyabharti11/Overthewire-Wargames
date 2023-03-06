@@ -404,13 +404,14 @@ Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of 
    
   <h3> </h3>
     
-       12) grep   
+       12) grep millionth data.txt   
        
           - The grep command can search for a string in groups of files. When it finds a pattern that matches in more than one file, it prints the name of               the file, followed by a colon, then the line matching the pattern.
-          - 
-          - 
-          - 
-          - 
+          - The grep command searches through the file, looking for matches to the pattern specified. 
+          - use:
+               type grep , then the pattern we're searching for and finally the name of the file (or files) we're searching in. 
+         
+   
  <br>
   <h3> </h3>
     
