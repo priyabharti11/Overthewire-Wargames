@@ -398,6 +398,8 @@ Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of 
           - Wildcards like "*" etc. are used to specify the pattern or other parameters.
          
  <br>
+ 
+<img title:find command src:https://user-images.githubusercontent.com/91482888/223033982-313e70f8-86cb-4252-b9e6-bdacb49d2a40.jpg width=100%/>
    
    
    
