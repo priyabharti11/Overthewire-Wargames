@@ -370,13 +370,33 @@ Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of 
    
   <h3> </h3>
     
-       10) du   
+       11) du   
        
           - Link - https://www.redhat.com/sysadmin/du-command-options 
           - Link - https://man7.org/linux/man-pages/man1/du.1.html
           - It is used to estimate the disk size a particular directory or file is using.
           - The last time it was modified (du --time)(can also specify the directory path in btwn. du and --time) etc.
           - The unit of size and other formats can be displayed using the respective flags it supports.
+ <br>
+   
+  <h3> </h3>
+    
+       12) grep   
+       
+          - The grep command can search for a string in groups of files. When it finds a pattern that matches in more than one file, it prints the name of               the file, followed by a colon, then the line matching the pattern.
+          - 
+          - 
+          - 
+          - 
+ <br>
+  <h3> </h3>
+    
+       13) file  
+       
+          - Link - https://medium.com/cyberdoggo/over-the-wire-bandit-534299149d29
+          - Used to find the type of while, human readable or ASCII or any.
+          - Wildcards like "*" etc. are used to specify the pattern or other parameters.
+         
  <br>
    
    
