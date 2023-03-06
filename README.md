@@ -370,13 +370,15 @@ Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of 
           - Command before 2>/dev/null ill generate the output with errors and permission denied etc.
           - Specifying 2>/dev/null will filter out the errors so that they will not be output to your console.
    
-          - ">" Operator & 1,2,3:
+          - ">" Operator:
                  *  > operator. It redirect the output of left of symbol to right of symbol.
+                 *  The greater than operator ( > ) indicates to the command line that we wish the programs output (or whatever it sends to STDOUT) to be                         saved in a file instead of printed to the screen.
                  * So it must thought as : source_command > target_file
-                 * 0 means stdin 
+          -Every program we run on the command line automatically has three data streams connected to it:
+                   0 means stdin 
                    1 means stdout(useful output)
                    2 means stderr(error message output)
-
+          - Link: https://ryanstutorials.net/linuxtutorial/piping.php
 
 
 
@@ -410,7 +412,7 @@ Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of 
           - The grep command searches through the file, looking for matches to the pattern specified. 
           - use:
                type grep , then the pattern we're searching for and finally the name of the file (or files) we're searching in. 
-         
+          -Link : https://ryanstutorials.net/linuxtutorial/piping.php :important concepts for commands and operator, must read.
    
  <br>
   <h3> </h3>
