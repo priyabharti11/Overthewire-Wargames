@@ -361,7 +361,7 @@ Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of 
  <br>
  <h3> </h3>
     
-       9)  2>/dev/null
+       10)  2>/dev/null
        
           - Link- https://askubuntu.com/questions/350208/what-does-2-dev-null-mean
           - /dev/null is treated as black hole in Linux/Unix, so you can put anything into this but you will not be able to get it back from /dev/null.
@@ -386,7 +386,7 @@ Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of 
  
  <h3> </h3>
     
-       10) strings filename | grep millionth  
+       11) strings filename | grep millionth  
        
           - To find original password after a particular word in the file as file has long data
           - Here password is found from data.txt file , password is just after the word 'millionth'.
@@ -395,7 +395,7 @@ Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of 
    
   <h3> </h3>
     
-       11) du   
+       12) du   
        
           - Link - https://www.redhat.com/sysadmin/du-command-options 
           - Link - https://man7.org/linux/man-pages/man1/du.1.html
@@ -406,18 +406,24 @@ Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of 
    
   <h3> </h3>
     
-       12) grep millionth data.txt   
+       13) grep millionth data.txt   
        
           - The grep command can search for a string in groups of files. When it finds a pattern that matches in more than one file, it prints the name of               the file, followed by a colon, then the line matching the pattern.
           - The grep command searches through the file, looking for matches to the pattern specified. 
-          - use:
-               type grep , then the pattern we're searching for and finally the name of the file (or files) we're searching in. 
-          -Link : https://ryanstutorials.net/linuxtutorial/piping.php :important concepts for commands and operator, must read.
+   
+          - USE:
+               type grep , then the pattern we're searching for and finally the name of the file (or files) we're searching in.
+   
+          - HOW IT RESULTS :
+               * The grep command prints entire lines when it finds a match in a file. 
+               * To print only those lines that completely match the search string, add the -x option. The output shows only the lines with the exact match.
+   
+          -LINK : https://ryanstutorials.net/linuxtutorial/piping.php :important concepts for commands and operator, must read.
    
  <br>
   <h3> </h3>
     
-       13) file  
+       14) file  
        
           - Link - https://medium.com/cyberdoggo/over-the-wire-bandit-534299149d29
           - Used to find the type of while, human readable or ASCII or any.
