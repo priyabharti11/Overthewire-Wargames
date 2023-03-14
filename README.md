@@ -439,7 +439,6 @@ Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of 
           - Link - https://www.ibm.com/docs/en/power6?topic=commands-ls-command
          
  <br>
-         
+        
    
-   
-   
+<img title="find command" src=" https://user-images.githubusercontent.com/91482888/224990467-e80c6bd3-c4b8-4faf-9cb0-6241c2d6f504.jpg " width="100%"/>   
