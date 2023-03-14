@@ -441,4 +441,4 @@ Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of 
  <br>
         
    
-<img title="find command" src=" https://user-images.githubusercontent.com/91482888/224990467-e80c6bd3-c4b8-4faf-9cb0-6241c2d6f504.jpg " width="100%"/>   
+<img title="imp" src="https://user-images.githubusercontent.com/91482888/224990467-e80c6bd3-c4b8-4faf-9cb0-6241c2d6f504.jpg" width="100%"/>   
