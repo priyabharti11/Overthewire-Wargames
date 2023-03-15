@@ -442,3 +442,11 @@ Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of 
         
    
 <img title="operators" src="https://user-images.githubusercontent.com/91482888/224990467-e80c6bd3-c4b8-4faf-9cb0-6241c2d6f504.jpg" width="100%"/>   
+   
+    <h3> </h3>
+    
+       16) systemctl  
+       
+          - Link - https://www.liquidweb.com/kb/what-is-systemctl-an-in-depth-overview/
+         
+ <br>
