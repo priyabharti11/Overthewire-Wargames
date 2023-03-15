@@ -450,3 +450,11 @@ Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of 
           - Link - https://www.liquidweb.com/kb/what-is-systemctl-an-in-depth-overview/
          
  <br>
+
+ <h3> </h3>
+    
+       16) PROCESS : (Everything about PROCESSESS in LINUX)  
+       
+          - Link - https://www.freecodecamp.org/news/linux-list-processes-how-to-check-running-processes/
+         
+ <br>
