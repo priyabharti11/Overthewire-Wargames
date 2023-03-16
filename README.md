@@ -466,3 +466,11 @@ Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of 
           -  To get the list of all the running processes on your Linux machine.
          
  <br>
+
+   <h3> </h3>
+    
+       18)  "Service management" and "init (process)" :  
+       
+          -  LINK : https://www.geeksforgeeks.org/what-is-init-d-in-linux-service-management/?ref=rp
+         
+ <br>
