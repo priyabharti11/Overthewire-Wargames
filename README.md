@@ -458,3 +458,11 @@ Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of 
           - Link - https://www.freecodecamp.org/news/linux-list-processes-how-to-check-running-processes/
          
  <br>
+   
+   <h3> </h3>
+    
+       17)  top  
+       
+          -  To get the list of all the running processes on your Linux machine.
+         
+ <br>
