@@ -470,18 +470,18 @@ Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of 
    <h3>18)  "Service management" and "init (process)" :   </h3>
     
        
-          -  LINK : https://www.geeksforgeeks.org/what-is-init-d-in-linux-service-management/?ref=rp
+          -  LINK - https://www.geeksforgeeks.org/what-is-init-d-in-linux-service-management/?ref=rp
          
  <br>
    
   <h3>
     19) USER and GROUP management :</h3>
     
-      https://www.redhat.com/sysadmin/linux-user-group-management
+      - https://www.redhat.com/sysadmin/linux-user-group-management
    
-      https://www.ibm.com/docs/en/ibm-mq/9.1?topic=windows-creating-managing-groups-linux
+      - https://www.ibm.com/docs/en/ibm-mq/9.1?topic=windows-creating-managing-groups-linux
    
-      https://www.tecmint.com/usermod-command-examples/
+      - https://www.tecmint.com/usermod-command-examples/
    
    - Deleting a user from linux :
            https://linuxize.com/post/how-to-delete-users-in-linux-using-the-userdel-command/
