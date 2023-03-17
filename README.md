@@ -482,4 +482,7 @@ Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of 
       https://www.ibm.com/docs/en/ibm-mq/9.1?topic=windows-creating-managing-groups-linux
    
       https://www.tecmint.com/usermod-command-examples/
+   
+   - Deleting a user from linux :
+           https://linuxize.com/post/how-to-delete-users-in-linux-using-the-userdel-command/
    <br>
