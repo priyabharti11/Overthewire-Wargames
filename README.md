@@ -480,4 +480,6 @@ Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of 
       https://www.redhat.com/sysadmin/linux-user-group-management
    
       https://www.ibm.com/docs/en/ibm-mq/9.1?topic=windows-creating-managing-groups-linux
+   
+      https://www.tecmint.com/usermod-command-examples/
    <br>
