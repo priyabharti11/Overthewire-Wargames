@@ -467,15 +467,14 @@ Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of 
          
  <br>
 
-   <h3> </h3>
+   <h3>18)  "Service management" and "init (process)" :   </h3>
     
-       18)  "Service management" and "init (process)" :  
        
           -  LINK : https://www.geeksforgeeks.org/what-is-init-d-in-linux-service-management/?ref=rp
          
  <br>
    
-    <h3>
+  <h3>
     19) USER and GROUP management :</h3>
     
       https://www.redhat.com/sysadmin/linux-user-group-management
