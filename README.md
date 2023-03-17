@@ -436,7 +436,7 @@ Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of 
     
        15) ls  
        
-          - Link - https://www.ibm.com/docs/en/power6?topic=commands-ls-command
+    - https://www.ibm.com/docs/en/power6?topic=commands-ls-command
          
  <br>
         
@@ -447,7 +447,7 @@ Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of 
     
        16) systemctl  
        
-          - Link - https://www.liquidweb.com/kb/what-is-systemctl-an-in-depth-overview/
+     - https://www.liquidweb.com/kb/what-is-systemctl-an-in-depth-overview/
          
  <br>
 
@@ -455,7 +455,7 @@ Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of 
     
        16) PROCESS : (Everything about PROCESSESS in LINUX)  
        
-          - Link - https://www.freecodecamp.org/news/linux-list-processes-how-to-check-running-processes/
+     - https://www.freecodecamp.org/news/linux-list-processes-how-to-check-running-processes/
          
  <br>
    
@@ -463,14 +463,14 @@ Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of 
     
        17)  top  
        
-          -  To get the list of all the running processes on your Linux machine.
+     -  To get the list of all the running processes on your Linux machine.
          
  <br>
 
    <h3>18)  "Service management" and "init (process)" :   </h3>
     
        
-          -  LINK - https://www.geeksforgeeks.org/what-is-init-d-in-linux-service-management/?ref=rp
+    - https://www.geeksforgeeks.org/what-is-init-d-in-linux-service-management/?ref=rp
          
  <br>
    
