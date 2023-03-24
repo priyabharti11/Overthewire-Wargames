@@ -486,3 +486,11 @@ Overthewire Wargames is a platform for prcaticing Linux Concepts in the form of 
    - Deleting a user from linux :
            https://linuxize.com/post/how-to-delete-users-in-linux-using-the-userdel-command/
    <br>
+
+   
+    <h3>19) SSH Commands and Process  :   </h3>
+    
+       
+    - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html-single/securing_networks/index#generating-ssh-key-pairs_assembly_using-secure-communications-between-two-systems-with-openssh
+         
+ <br>
